@@ -1,26 +1,26 @@
 # imdb_mini 🎬
 
-A **TMDB-based, IMDB-like mini clone** built as a learning project for **React + Redux**. :contentReference[oaicite:1]{index=1}
+A **mini IMDB-like movie browsing app** built using **React** to practice modern frontend development and state management.
 
-> Goal: build a small-scale movie browsing app while practicing component design, state management, and clean UI.
-
----
-
-## Tech Stack
-
-- **React** (UI)
-- **Redux** (state management) :contentReference[oaicite:2]{index=2}
-- **Vite** (dev server + build tooling)
-- **Tailwind CSS** (styling) :contentReference[oaicite:3]{index=3}
-- **TMDB API** (movie data) :contentReference[oaicite:4]{index=4}
+This project uses **TMDB (The Movie Database) API** to fetch movie data and focuses on building a clean UI, reusable components, and scalable app structure.
 
 ---
 
-## Features (current / planned)
+## 🚀 Tech Stack
 
-- Browse trending / popular movies
-- Search movies
-- Movie details page (rating, overview, etc.)
+- **React**
+- **Redux** (state management)
+- **Vite** (build tool)
+- **Tailwind CSS** (styling)
+- **TMDB API** (movie data)
+
+---
+
+## ✨ Features
+
+- Browse popular and trending movies
+- Search for movies
+- View movie details (poster, rating, overview)
 - Responsive UI
 
 ---

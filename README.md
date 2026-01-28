@@ -24,3 +24,4 @@ This project uses **TMDB (The Movie Database) API** to fetch movie data and focu
 - Responsive UI
 
 ---
+Live: https://imdb-mini.netlify.app/
